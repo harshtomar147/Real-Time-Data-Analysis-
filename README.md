@@ -1,6 +1,3 @@
-# Real-Time-Data-Analysis-
-using Spark Streaming and Kafka
-
 # Twitter real time data Analysis using Spark_Streaming and Kafka
 
 ## Project Description
